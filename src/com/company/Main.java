@@ -15,4 +15,7 @@ public class Main {
     public static double percent_difference(){
 
     }
+    public static String name(){
+
+    }
 }
